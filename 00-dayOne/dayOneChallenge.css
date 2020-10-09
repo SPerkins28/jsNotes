@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: lightgreen;
+}
+
+h3{
+    color:blue;
+    font-weight: 1;
+}
+
+p{
+    color:red;
+}
+
+#divOne{
+    border-radius: 1em; /* bigger the number = more of a rounded curve */
+    border: 3px solid black;
+    padding: .5em;
+    background-color: grey;
+    text-align: center;
+}
+
+.option{
+    border-radius: 1em;
+    border: 5px solid black;
+    background-color: lightgray;
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+}
