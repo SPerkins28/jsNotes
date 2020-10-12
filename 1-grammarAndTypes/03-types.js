@@ -109,3 +109,6 @@ let sent = 'This sentence will be split into individual parts';
 let array = sent.split(' '); //* Split method. Can be split by many different things.
 console.log(array);
 console.log(sent.split(' '));
+
+
+

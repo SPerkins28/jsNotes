@@ -28,20 +28,20 @@ let weather = 75;
 
 let officeCharacter = "Pam";
 
-// switch (officeCharacter) {
-     //! Kinda like if officeCharacter == "Michael"
-//     case "Michael":
-//         console.log("My mind is going a mile an hour");
-//         break; //! break will leave the switch after the block runs
-//     case "Dwight":
-//         console.log("Perfectenschlag");
-//         break;
-//     case "Jim":
-//         console.log("Bears. Beets. Battlestar Galactica");
-//         break;
-//     default:
-//         console.log(`I'm sorry, ${officeCharacter}, but do I know you?`);
-// }
+switch (officeCharacter) {
+     // ! Kinda like if officeCharacter == "Michael"
+    case "Michael":
+        console.log("My mind is going a mile an hour");
+        break; //! break will leave the switch after the block runs
+    case "Dwight":
+        console.log("Perfectenschlag");
+        break;
+    case "Jim":
+        console.log("Bears. Beets. Battlestar Galactica");
+        break;
+    default:
+        console.log(`I'm sorry, ${officeCharacter}, but do I know you?`);
+}
 
 // let dessert = 'cake';
 

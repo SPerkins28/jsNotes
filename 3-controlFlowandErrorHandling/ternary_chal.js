@@ -13,7 +13,7 @@
 //?         console.log("Sorry, you're too young to do anything fun.");
 //?     }
 
-let age = 22;
+let age = 17;
 
 (age >= 25) ? console.log('Yay! You can rent a car!')
         : (age >= 21) ? console.log("Yay! You can drink!")

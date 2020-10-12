@@ -44,7 +44,7 @@ for (letter of name){
     console.log(letter);
 }
 
-//! Challenge: make a for loop wher you add up all the numbers from 1 to 50 (should equal 1275)
+//! Challenge: make a for loop where you add up all the numbers from 1 to 50 (should equal 1275)
 let sum = 0;
 
 for (let i = 1; i <= 50; i++){
