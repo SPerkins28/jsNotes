@@ -28,3 +28,17 @@ function wholeName(firstName, lastName) {
 }
 
 wholeName("Sean", "Perkins");
+
+function countIt(i) {
+    console.log(i);
+}
+
+for(let i = 0; i <= 10; i ++) {
+    countIt(i);
+    
+    if (i % 2 === 0){
+        console.log("The number is even");
+    } else {
+        console.log("The number is odd");
+    }
+}
